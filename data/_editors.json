@@ -2,22 +2,22 @@
     {
         "role": "owner",
         "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/channel/UCsDaz4JnSfKSnTIGPf2OqTw"
     },
     {
         "role": "admin",
         "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@solicoli"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "PlaceHolder GDPS",
+        "link": "https://www.youtube.com/channel/UCfmc6XK8rRkOVr7_RfTh8rA"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "List Helper",
+        "link": "https://www.youtube.com/channel/UC16thgxkLTUwZJtvHfnV1Dw"
     },
     {
         "role": "dev",
